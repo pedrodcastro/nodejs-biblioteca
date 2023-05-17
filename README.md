@@ -1,4 +1,4 @@
-<h1 align='center'>Biblioteca para validação de links</h1>
+<h1>Biblioteca para validação de links</h1>
 
 > Status do projeto: Concluído! :white_check_mark:
 
